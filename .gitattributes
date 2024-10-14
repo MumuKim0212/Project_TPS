@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Content/Sci_FI_Valley_Village/Textures/T_cliff_01/T_cliff_01_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/LyraAssets/Effects/Textures/Flipbooks/SmokeSwirl_3_Flipbook_CHANNELPACK.uasset filter=lfs diff=lfs merge=lfs -text
